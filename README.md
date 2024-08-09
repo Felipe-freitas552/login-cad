@@ -8,7 +8,7 @@ Nesse site você ira ver um sistema que analiza e registra nomes de usuarios, po
   Explicação a baixo
   # Validação de Preenchimento e Gerenciamento de Lista de Usuários
 
-
+````
 **Descrição:**
 
 Este código JavaScript implementa um simples sistema de cadastro e gerenciamento de usuários. As principais funcionalidades incluem:
@@ -16,7 +16,7 @@ Este código JavaScript implementa um simples sistema de cadastro e gerenciament
 * **Validação de formulário:** Verifica se todos os campos obrigatórios de um formulário de login estão preenchidos antes de permitir o acesso.
 * **Cadastro de usuários:** Permite adicionar novos usuários a uma lista, armazenando seus nomes em um array JavaScript.
 * **Gerenciamento de lista:** Exibe os usuários cadastrados em uma tabela HTML, permitindo a edição e exclusão de registros.
-
+````
 **Como usar:**
 
 1. **Incluir o código:** Copie e cole o código JavaScript em seu arquivo HTML.
