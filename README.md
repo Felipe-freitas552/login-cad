@@ -51,6 +51,8 @@ Este código JavaScript implementa um simples sistema de cadastro e gerenciament
 <button onclick="salvarUser()">Salvar</button>
 
 <table id="tabela"></table>
+
+<br>
 ## Tecnologias Utilizadas
 
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
