@@ -3,9 +3,9 @@
 Nesse site você ira ver um sistema que analiza e registra nomes de usuarios, podendo ter a função de exclução de nome e editor de nome.
  
  ![Site](/img/Gravação%20de%20Tela%202024-08-09%20071848.gif)
- 
+
 ## Codigo controller.js
-  
+  Explicação a baixo
   # Validação de Preenchimento e Gerenciamento de Lista de Usuários
 
 
