@@ -40,6 +40,13 @@ Este código JavaScript implementa um simples sistema de cadastro e gerenciament
     * **Interface:** Melhorar a interface do usuário utilizando CSS.
     * **Framework:** Utilizar um framework JavaScript para facilitar o desenvolvimento e a organização do código.
 
+
+# Cadastro de Email
+
+Apos a criação da lista do nome adicionamos uma nova linha para colocar o e-mail do usuário onde usamos os mesmos códigos da criação da lista do nome. O usuário pode editar e excluir o nome na mesma tabela, aparecendo um do lado do outro e podendendo edita e excluir um de cada vez se desejado.
+
+![site](/img/img.png)
+
 **Exemplo de HTML:**
 
 ```html
@@ -53,12 +60,6 @@ Este código JavaScript implementa um simples sistema de cadastro e gerenciament
 <table id="tabela"></table>
 
 <br>
-
-# Cadastro de Email
-
-Apos a criação da lista do nome adicionamos uma nova linha para colocar o e-mail do usuário onde usamos os mesmos códigos da criação da lista do nome. O usuário pode editar e excluir o nome na mesma tabela, aparecendo um do lado do outro e podendendo edita e excluir um de cada vez se desejado.
-
-![site](/img/img.png)
 
 ## Tecnologias Utilizadas
 
