@@ -64,5 +64,8 @@ Este código JavaScript implementa um simples sistema de cadastro e gerenciament
 
 <br>
 
+## Cadastro de Email
+
+**Apos a criação da lista do nome adicionamos uma nova linha para colocar o e-mail do usuário onde usamos os mesmos códigos da criação da lista do nome. O usuário pode editar e excluir o nome na mesma tabela, aparecendo um do lado do outro e podendendo edita e excluir um de cada vez se desejado.**
 
  
