@@ -2,7 +2,7 @@
  
 Nesse site você ira ver um sistema que analiza e registra nomes de usuarios, podendo ter a função de exclução de nome e editor de nome.
  
- ![Site](/img/salva-nome-lista.gif)
+ ![Site](
 
 ## Codigo controller.js
   Explicação a baixo
@@ -63,7 +63,7 @@ Apos a criação da lista do nome adicionamos uma nova linha para colocar o e-ma
 
 ## Tecnologias Utilizadas
 
-* [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
 * [<code><img height="32" src="https://blog.netscandigital.com/wp-content/uploads/2023/07/O-que-e-o-Google-Bard.png" alt="Bard"/></code>](https://bard.google.com/chat?hl=pt)
 * [<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudio"/></code>](https://code.visualstudio.com/)
 * [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>](https://github.com/)
